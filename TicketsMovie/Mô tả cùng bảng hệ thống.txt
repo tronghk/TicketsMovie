@@ -1,0 +1,41 @@
+Hệ thống vé xem phim:
+người dùng đăng ký tài khoản xem phim,
+người dùng có nhu cầu xem các bộ phim sắp  chiếu và đang diễn ra,
+nhu cầu đặt vé xem phim đang diễn ra và sau ( cao nhất 1 tuần)
+Ngươì dùng đăng ký hội viên rạp chiếu phim 
+Người dùng xem lịch sử phim đã đặt
+Người dùng nạp tiền vào tài khoản xem phim 
+Voucher (theo loại khách hàng)
+
+Quy ra chức năng:
+- Đăng nhập/ đăng ký/quên mật khẩu/đổi mật khẩu
+- Hiển thị danh sách phim đang/sắp chiêu
+-Đăng ký thành viên rạp
+-Nạp tiền tài khoản
+-Đặt vé xem phim/ thanh toán vnpay, momo
+-Đặt chỗ 
+-Giảm giá xem phim theo học sinh/ sinh viên/ thành viên VIP
+
+* thành viên VIP là thành viên đã đặt thành công ít nhất 10 phim trong vòng 1 tháng
+* Chỗ ngồi rạp quy định 48 ô, quy tắc đặt(chưa rõ)
+Quy ra table:
+AccountIdentity(Email,EmailComfirm,countLocked,Locked,TimeLocked,RefreshToken,RefreshTokenExpiryTime,UserId ,)
+Roles(RoleId,RoleName,RoleDescription,)
+UserRoles(UserId,RoleId)
+UserInfors(Firstname,LastName,Gender,Birthday,Address,UserId,Phone)
+TypeMovie(TypeMovieId, Name)
+LanguageMovie(LanguageMovieId, Name)
+Movie (LanguageMovieId,MovieId, MovieName, MovieTime, Status, DateStart, Director, Performer)
+DetailsTypeMovie(MovieId,TypeMovieId)
+Ticket(TicketsId, UserId, Date, Money, Description)
+DetailsTicket(TicketId, MovieId, Quantity, PriceTicket, Discount, Total, Seat)
+AccumulationAccount(UserId, Total)
+HistoryPay(UserId, Price, Date, Status, TypePay)
+News(NewsId, Image, Content, Author)
+
+// ước dinh làm thêm sản phẩm khác như nước bap
+* khi đặt xong vé thì qua cái này số luong bỏ qua thông tin trạng thái còn hay hết 
+ProductOrther(ProductOrtherId, Name, Price, Status)
+DetailsProductOrther(TicketId, ProductOrtherId, Quantity, Total)
+
+
