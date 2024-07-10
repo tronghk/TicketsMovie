@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container_log">
+        <div class="container-left">
+            <h2>Login</h2> 
+            <form action="/submit" method="post" class="login-form">
+                <input type="text" placeholder="User" id="user" name="user">
+                <input type="password" name="password" id="password" placeholder="password">
+                <div class="forget-password">
+                    <label for="forget-password">Forget your password?</label>
+                    <a href="#">Click here!</a>
+                </div>
+                <button type="submit" class="btn-login">Login</button>
+            </form>
+        </div>
+        <div class="container-right">
+            <form action="/submit">
+                <h2>Welcome to Ticket Movie</h2>  
+                <h3>First time here? Signup for a brand new account right now!</h3> 
+                <button type="submit">Sign up</button>
+                <div class="text_h4">
+                    <h4>Privacy Policy</h4>
+                    <h4>Terms & Conditions</h4> 
+                </div>
+                <a href="#">Tiến đến trang chủ -></a>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
