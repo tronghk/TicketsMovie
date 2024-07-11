@@ -1,0 +1,721 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Workspace\\Backend\\ZingMp3API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\entity\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:entity\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\entity\\timelisten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:entity\\timelisten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\entity\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:entity\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\entity\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:entity\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\entity\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:entity\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\entity\\listenrecently.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:entity\\listenrecently.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\entity\\musicview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:entity\\musicview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\entity\\vip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:entity\\vip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\entity\\userinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:entity\\userinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\entity\\songtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:entity\\songtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\entity\\playlistuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:entity\\playlistuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\entity\\playlistsynthetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:entity\\playlistsynthetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\entity\\playlistdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:entity\\playlistdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\entity\\playlistsinger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:entity\\playlistsinger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\service\\imployment\\imageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:service\\imployment\\imageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\model\\imagepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:model\\imagepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\service\\iimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:service\\iimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\service\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:service\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|E:\\Workspace\\Backend\\ZingMp3API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\helper\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:helper\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\service\\imployment\\emailsenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:service\\imployment\\emailsenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\service\\imployment\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:service\\imployment\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\statisfiletesting\\images\\z.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:statisfiletesting\\images\\z.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\service\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:service\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\service\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:service\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\model\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:model\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\model\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:model\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\model\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:model\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\model\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:model\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\model\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:model\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\service\\imployment\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:service\\imployment\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\service\\imployment\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:service\\imployment\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\service\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:service\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\statisfiletesting\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:statisfiletesting\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|e:\\workspace\\backend\\zingmp3api\\zingmp3api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:zingmp3api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|E:\\Workspace\\Backend\\ZingMp3API\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|E:\\Workspace\\Backend\\ZingMp3API\\data\\accountidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:data\\accountidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Workspace\\Backend\\ZingMp3API\\Migrations\\20240526115021_Zingmp3-v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240526115021_Zingmp3-v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|E:\\Workspace\\Backend\\ZingMp3API\\data\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC85A3AA-1D34-4D9D-802B-85AC10DE18A2}|ZingMp3API.csproj|solutionrelative:data\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2146146375:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeListen.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\TimeListen.cs",
+              "RelativeDocumentMoniker": "Entity\\TimeListen.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\TimeListen.cs",
+              "RelativeToolTip": "Entity\\TimeListen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:56:08.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\Publisher.cs",
+              "RelativeDocumentMoniker": "Entity\\Publisher.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\Publisher.cs",
+              "RelativeToolTip": "Entity\\Publisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:53:47.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\Event.cs",
+              "RelativeDocumentMoniker": "Entity\\Event.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\Event.cs",
+              "RelativeToolTip": "Entity\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:51:01.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VIP.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\VIP.cs",
+              "RelativeDocumentMoniker": "Entity\\VIP.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\VIP.cs",
+              "RelativeToolTip": "Entity\\VIP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:49:22.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusicView.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\MusicView.cs",
+              "RelativeDocumentMoniker": "Entity\\MusicView.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\MusicView.cs",
+              "RelativeToolTip": "Entity\\MusicView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:47:48.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\Favorite.cs",
+              "RelativeDocumentMoniker": "Entity\\Favorite.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\Favorite.cs",
+              "RelativeToolTip": "Entity\\Favorite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:46:13.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListenRecently.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\ListenRecently.cs",
+              "RelativeDocumentMoniker": "Entity\\ListenRecently.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\ListenRecently.cs",
+              "RelativeToolTip": "Entity\\ListenRecently.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:40:30.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlaylistUser.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\PlaylistUser.cs",
+              "RelativeDocumentMoniker": "Entity\\PlaylistUser.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\PlaylistUser.cs",
+              "RelativeToolTip": "Entity\\PlaylistUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:37:56.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Song.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\Song.cs",
+              "RelativeDocumentMoniker": "Entity\\Song.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\Song.cs",
+              "RelativeToolTip": "Entity\\Song.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswC0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:11:09.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlaylistSynthetic.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\PlaylistSynthetic.cs",
+              "RelativeDocumentMoniker": "Entity\\PlaylistSynthetic.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\PlaylistSynthetic.cs",
+              "RelativeToolTip": "Entity\\PlaylistSynthetic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:32:11.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserInfor.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\UserInfor.cs",
+              "RelativeDocumentMoniker": "Entity\\UserInfor.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\UserInfor.cs",
+              "RelativeToolTip": "Entity\\UserInfor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:22:41.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlaylistDetails.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\PlaylistDetails.cs",
+              "RelativeDocumentMoniker": "Entity\\PlaylistDetails.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\PlaylistDetails.cs",
+              "RelativeToolTip": "Entity\\PlaylistDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:28:45.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlaylistSinger.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\PlaylistSinger.cs",
+              "RelativeDocumentMoniker": "Entity\\PlaylistSinger.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\PlaylistSinger.cs",
+              "RelativeToolTip": "Entity\\PlaylistSinger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:23:53.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SongType.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\SongType.cs",
+              "RelativeDocumentMoniker": "Entity\\SongType.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Entity\\SongType.cs",
+              "RelativeToolTip": "Entity\\SongType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:13:43.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MessageResponse.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Helper\\MessageResponse.cs",
+              "RelativeDocumentMoniker": "Helper\\MessageResponse.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Helper\\MessageResponse.cs",
+              "RelativeToolTip": "Helper\\MessageResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:34:13.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImagesController.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "Controllers\\ImagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:29:20.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImageServices.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\Imployment\\ImageServices.cs",
+              "RelativeDocumentMoniker": "Service\\Imployment\\ImageServices.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\Imployment\\ImageServices.cs",
+              "RelativeToolTip": "Service\\Imployment\\ImageServices.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAswHYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:14:37.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T11:31:44.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IImages.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\IImages.cs",
+              "RelativeDocumentMoniker": "Service\\IImages.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\IImages.cs",
+              "RelativeToolTip": "Service\\IImages.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwA4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:12:45.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImagePostModel.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Model\\ImagePostModel.cs",
+              "RelativeDocumentMoniker": "Model\\ImagePostModel.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Model\\ImagePostModel.cs",
+              "RelativeToolTip": "Model\\ImagePostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:13:31.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAADgv1AAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:17:53.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUsers.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\IUsers.cs",
+              "RelativeDocumentMoniker": "Service\\IUsers.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\IUsers.cs",
+              "RelativeToolTip": "Service\\IUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:53:33.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmailSenderService.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\Imployment\\EmailSenderService.cs",
+              "RelativeDocumentMoniker": "Service\\Imployment\\EmailSenderService.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\Imployment\\EmailSenderService.cs",
+              "RelativeToolTip": "Service\\Imployment\\EmailSenderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:55:13.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "z.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\StatisFileTesting\\Images\\z.cs",
+              "RelativeDocumentMoniker": "StatisFileTesting\\Images\\z.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\StatisFileTesting\\Images\\z.cs",
+              "RelativeToolTip": "StatisFileTesting\\Images\\z.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:11:51.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "Service\\IEmailSender.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\IEmailSender.cs",
+              "RelativeToolTip": "Service\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:01:52.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\Imployment\\RoleService.cs",
+              "RelativeDocumentMoniker": "Service\\Imployment\\RoleService.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\Imployment\\RoleService.cs",
+              "RelativeToolTip": "Service\\Imployment\\RoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:55:14.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IToken.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\IToken.cs",
+              "RelativeDocumentMoniker": "Service\\IToken.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\IToken.cs",
+              "RelativeToolTip": "Service\\IToken.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:53:58.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Model\\TokenModel.cs",
+              "RelativeDocumentMoniker": "Model\\TokenModel.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Model\\TokenModel.cs",
+              "RelativeToolTip": "Model\\TokenModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:32:01.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Model\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "Model\\ResponseModel.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Model\\ResponseModel.cs",
+              "RelativeToolTip": "Model\\ResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:52:50.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SignInModel.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Model\\SignInModel.cs",
+              "RelativeDocumentMoniker": "Model\\SignInModel.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Model\\SignInModel.cs",
+              "RelativeToolTip": "Model\\SignInModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:31:53.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ChangePasswordModel.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Model\\ChangePasswordModel.cs",
+              "RelativeDocumentMoniker": "Model\\ChangePasswordModel.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Model\\ChangePasswordModel.cs",
+              "RelativeToolTip": "Model\\ChangePasswordModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:09:34.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SignUpModel.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Model\\SignUpModel.cs",
+              "RelativeDocumentMoniker": "Model\\SignUpModel.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Model\\SignUpModel.cs",
+              "RelativeToolTip": "Model\\SignUpModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:29:39.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TokenServices.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\Imployment\\TokenServices.cs",
+              "RelativeDocumentMoniker": "Service\\Imployment\\TokenServices.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\Imployment\\TokenServices.cs",
+              "RelativeToolTip": "Service\\Imployment\\TokenServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:54:08.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\Imployment\\UserServices.cs",
+              "RelativeDocumentMoniker": "Service\\Imployment\\UserServices.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\Imployment\\UserServices.cs",
+              "RelativeToolTip": "Service\\Imployment\\UserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:53:51.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IRole.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\IRole.cs",
+              "RelativeDocumentMoniker": "Service\\IRole.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Service\\IRole.cs",
+              "RelativeToolTip": "Service\\IRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:55:10.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ZingMp3API",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\ZingMp3API.csproj",
+              "RelativeDocumentMoniker": "ZingMp3API.csproj",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\ZingMp3API.csproj",
+              "RelativeToolTip": "ZingMp3API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T13:11:39.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "image.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\StatisFileTesting\\image.cs",
+              "RelativeDocumentMoniker": "StatisFileTesting\\image.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\StatisFileTesting\\image.cs",
+              "RelativeToolTip": "StatisFileTesting\\image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:12:00.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AccountIdentity.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Data\\AccountIdentity.cs",
+              "RelativeDocumentMoniker": "Data\\AccountIdentity.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Data\\AccountIdentity.cs",
+              "RelativeToolTip": "Data\\AccountIdentity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:24:42.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:21:57.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240526115021_Zingmp3-v1.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Migrations\\20240526115021_Zingmp3-v1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240526115021_Zingmp3-v1.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Migrations\\20240526115021_Zingmp3-v1.cs",
+              "RelativeToolTip": "Migrations\\20240526115021_Zingmp3-v1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:50:22.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "E:\\Workspace\\Backend\\ZingMp3API\\Data\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationRole.cs",
+              "ToolTip": "E:\\Workspace\\Backend\\ZingMp3API\\Data\\ApplicationRole.cs",
+              "RelativeToolTip": "Data\\ApplicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:25:08.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

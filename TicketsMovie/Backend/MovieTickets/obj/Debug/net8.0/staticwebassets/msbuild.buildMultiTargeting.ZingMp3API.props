@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ZingMp3API.props" />
+</Project>
